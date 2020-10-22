@@ -70,17 +70,17 @@ You have been provided the following Figma to provide you the general layout, wh
 - `Keep` Cards are displayed in accordance to mock
 	- A keep card includes, image, title, creator avatar
 	- Clicking on the creator avatar navigates to the creators profile page *(stop propagate)*
-- Cards follow a mansonry layout *(bootstrap mansonry)*
-- Clicking on a keep card opens the keep in a modal which includes
+- Cards follow a mansonry layout *(bootstrap card columns OR masonry)*
+- Clicking on a keep card opens the keep in a modal which adheres to mock
 	- Keep Count
 	- View Count
 	- Keep Description
-	- keep Title
+	- Keep Title
 	- Keep Creator name and avatar
 	- Keep Image
-	- Add to vault button
+	- Add to vault functionality
 - All users have a public profile page
-- The profile page displays:
+- The profile page adheres to mock:
 	- **Public** vaults
 	- **Private** vaults if it is their own page
 	- Keeps created by that user
